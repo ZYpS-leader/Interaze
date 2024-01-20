@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w9CXTeG0FqOKuqQQR2/AmVaMBI2nkksXQC4b59Y1cuWae4JuVVtDD2XsGAFJP7R6hJupTevtB+7HnkPvmgW/GA==",
+  "success": true,
+  "projectFilePath": "P:\\C#\\itea\\interaze_alpha1\\interaze_alpha1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ETRO_\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\ETRO_\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\ETRO_\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

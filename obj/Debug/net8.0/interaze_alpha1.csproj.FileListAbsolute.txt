@@ -1,0 +1,14 @@
+P:\C#\itea\interaze_alpha1\obj\Debug\net8.0\interaze_alpha1.GeneratedMSBuildEditorConfig.editorconfig
+P:\C#\itea\interaze_alpha1\obj\Debug\net8.0\interaze_alpha1.AssemblyInfoInputs.cache
+P:\C#\itea\interaze_alpha1\obj\Debug\net8.0\interaze_alpha1.AssemblyInfo.cs
+P:\C#\itea\interaze_alpha1\obj\Debug\net8.0\interaze_alpha1.csproj.CoreCompileInputs.cache
+P:\C#\itea\interaze_alpha1\bin\Debug\net8.0\interaze_alpha1.exe
+P:\C#\itea\interaze_alpha1\bin\Debug\net8.0\interaze_alpha1.deps.json
+P:\C#\itea\interaze_alpha1\bin\Debug\net8.0\interaze_alpha1.runtimeconfig.json
+P:\C#\itea\interaze_alpha1\bin\Debug\net8.0\interaze_alpha1.dll
+P:\C#\itea\interaze_alpha1\bin\Debug\net8.0\interaze_alpha1.pdb
+P:\C#\itea\interaze_alpha1\obj\Debug\net8.0\interaze_alpha1.dll
+P:\C#\itea\interaze_alpha1\obj\Debug\net8.0\refint\interaze_alpha1.dll
+P:\C#\itea\interaze_alpha1\obj\Debug\net8.0\interaze_alpha1.pdb
+P:\C#\itea\interaze_alpha1\obj\Debug\net8.0\interaze_alpha1.genruntimeconfig.cache
+P:\C#\itea\interaze_alpha1\obj\Debug\net8.0\ref\interaze_alpha1.dll
